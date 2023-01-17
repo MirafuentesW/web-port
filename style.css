@@ -1,0 +1,12 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*.collapse{
+	text-align: center;
+}*/
+
+.parent{
+	height: 40px;
+	width: 40px;
+}
